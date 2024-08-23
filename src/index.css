@@ -1,0 +1,10 @@
+.sync-stream-button {
+  width: 200px;
+  height: 48px;
+  color: white;
+  font-size: 14px;
+  font-weight: 400px;
+  background-color: blue;
+  border: 1px solid blue;
+  border-radius: 4px;
+}
